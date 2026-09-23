@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "exmod-starter (latest)",
+      "name": "exmods-starter (latest)",
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "launch-prep (latest)",
@@ -22,7 +22,7 @@
         "args": [
           "--tracelog",
           "--dataPath",
-          "${env:LOCALAPPDATA}/exmod/data/exmod-starter",
+          "${env:LOCALAPPDATA}/exmod/data/exmods-starter",
           "--addModPath",
           "${workspaceFolder}/bin/Mods"
         ]

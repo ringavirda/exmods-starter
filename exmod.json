@@ -1,7 +1,7 @@
 {
   "tools": "0.3.4",
   "series": ["1.22"],
-  "solution": "exmod-starter.sln",
+  "solution": "exmods-starter.sln",
   "mods": {
     "twintubblower": { "path": "mods/twintubblower" },
     "burdenmaker": { "path": "mods/burdenmaker" },
