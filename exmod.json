@@ -1,5 +1,5 @@
 {
-  "tools": "0.3.4",
+  "tools": "0.3.5",
   "series": ["1.22"],
   "solution": "exmods-starter.sln",
   "mods": {
