@@ -14,9 +14,9 @@
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.8.2" />
     <PackageVersion Include="NSubstitute" Version="5.3.0" />
 
-    <PackageVersion Include="ExpandedLib" Version="0.8.2" />
+    <PackageVersion Include="ExpandedLib" Version="0.8.4" />
     <!-- Referenced by no mod this starter generates; here for a mod that adds the Industry module. -->
-    <PackageVersion Include="ExpandedLib.Industry" Version="0.8.2" />
-    <PackageVersion Include="ExpandedLib.Testing" Version="0.8.2" />
+    <PackageVersion Include="ExpandedLib.Industry" Version="0.8.4" />
+    <PackageVersion Include="ExpandedLib.Testing" Version="0.8.4" />
   </ItemGroup>
 </Project>
